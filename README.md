@@ -12,6 +12,8 @@
 
 # OUTPUT OF THE TASK
 
+![Image](https://github.com/user-attachments/assets/e2c88d1e-9d57-411d-963e-3feb83bff83e)
+
 # description of the app 
 
 The application described in your package.json is a collaborative whiteboard tool built using Node.js and Socket.io. Node.js is a runtime environment built on Chrome's V8 JavaScript engine, which allows JavaScript to run on the server side. It is designed to handle asynchronous operations and large-scale applications, making it ideal for real-time collaborative tools like this whiteboard app. The app uses Express, a web framework for Node.js, to simplify server setup and handle HTTP requests. Express is responsible for serving static files (such as HTML, CSS, and JavaScript) and routing requests on the server. In the whiteboard application, Express is the backbone of the web server, ensuring smooth handling of incoming requests from clients.
